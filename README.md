@@ -1,4 +1,4 @@
-Esse projeto tem a finalidade de buscar arquivos dentro do sistem operacional hospedado
+Esse projeto tem a finalidade de buscar arquivos dentro do sistema operacional hospedado
 
 Sabe aquela busca demorada? Isso vai facilitar sua vida
 
